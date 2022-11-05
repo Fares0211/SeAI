@@ -4,7 +4,7 @@ _______________________________________________
 
 ## Création d'une application web Python à l'aide de la librairie Streamlit.
 
-## Implémentation du modèle de réseaux de neurones convolutionnels ResNet50.
+## Implémentation du modèle de réseau de neurones convolutionnels ResNet50.
 
 ## Solution embarquée pour la fondation SurfRider => géolocalisation de l'utilisateur uploadant l'image dans seAi.
 
