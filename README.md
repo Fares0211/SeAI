@@ -27,9 +27,9 @@ Ouvrez votre navigateur Web et accédez à l'adresse http://localhost:5000 pour 
 Si vous souhaitez contribuer à ce projet, suivez les étapes ci-dessous :
 
 Fork ce repository.  
-Créez une branche pour vos modifications : git checkout -b feature/your-feature-name. 
-Faites vos modifications et commitez les changements : git commit -m "Description de vos modifications". 
-Poussez les modifications vers votre fork : git push origin feature/your-feature-name. 
+Créez une branche pour vos modifications : git checkout -b feature/your-feature-name.   
+Faites vos modifications et commitez les changements : git commit -m "Description de vos modifications".   
+Poussez les modifications vers votre fork : git push origin feature/your-feature-name.   
 Ouvrez une pull request vers ce repository
 
 
