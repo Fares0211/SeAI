@@ -9,17 +9,18 @@ Le code utilise des bibliothèques populaires de deep learning telles que Tensor
 ## Prérequis
 
 Avant de pouvoir exécuter l'application, vous devez avoir les éléments suivants installés sur votre machine :
-Python 3.6 ou supérieur. Les modules Python spécifiés dans le fichier requirements.txt. 
+Python 3.6 ou supérieur
 
 ## Installation
 
 Clonez ce repository sur votre machine : git clone https://github.com/votre-nom/repository-name.git. 
 Accédez au répertoire cloné : cd repository-name. 
-Installez les dépendances requises : pip install -r requirements.txt. 
-Utilisation. 
+Installez les dépendances requises : pip install -r requirements.txt
+
+## Utilisation
 
 Exécutez l'application : python app.py. 
-Ouvrez votre navigateur Web et accédez à l'adresse http://localhost:5000 pour afficher la carte.
+Ouvrez votre navigateur Web et accédez à l'adresse http://localhost:5000 pour afficher la carte
 
 ## Contribuer
 
@@ -29,6 +30,6 @@ Fork ce repository.
 Créez une branche pour vos modifications : git checkout -b feature/your-feature-name. 
 Faites vos modifications et commitez les changements : git commit -m "Description de vos modifications". 
 Poussez les modifications vers votre fork : git push origin feature/your-feature-name. 
-Ouvrez une pull request vers ce repository.  
+Ouvrez une pull request vers ce repository
 
 
