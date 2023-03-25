@@ -1,4 +1,4 @@
-# seAI : Implémentation d'une IA Python permettant la détection de déchets plastiques dans une image.
+# seAI
 
 Ce projet est une application qui utilise les données stockées dans le fichier data_map.csv pour afficher une carte interactive. Le dossier pycache contient des fichiers générés par Python lors de l'exécution de l'application. 
 
