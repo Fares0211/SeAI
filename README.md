@@ -1,4 +1,4 @@
-# seAI
+# SeAI
 
 Ce projet est une application qui utilise les données stockées dans le fichier data_map.csv pour afficher une carte interactive. Le dossier pycache contient des fichiers générés par Python lors de l'exécution de l'application. 
 
